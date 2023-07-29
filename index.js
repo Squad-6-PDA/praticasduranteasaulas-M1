@@ -33,7 +33,7 @@ function divisao(a, b) {
 }
 
 function exibirResultado(a, operacao, b) {
-    alert("Seu resultade é: " + (calculadora(valor1, operacaoUsuario, valor2)))
+    alert("Seu resultado é: " + (calculadora(valor1, operacaoUsuario, valor2)))
 }
 
 
